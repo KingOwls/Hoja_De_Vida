@@ -4,6 +4,12 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+body{
+    background-image: url(../img/Fondo_Pc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
 .container{
     margin-top: 20px;
     width: 100%;
